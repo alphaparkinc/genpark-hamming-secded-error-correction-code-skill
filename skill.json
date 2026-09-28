@@ -1,0 +1,20 @@
+{
+  "name": "genpark-hamming-secded-error-correction-code-skill",
+  "version": "1.0.0",
+  "description": "Hamming (7, 4) linear block code and extended (8, 4) SECDED single-error correction double-error detection",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "hamming-code",
+    "secded",
+    "error-correction",
+    "parity-check",
+    "linear-block-code",
+    "coding-theory",
+    "python-standard-library",
+    "agent-skills",
+    "bit-flip-recovery",
+    "fault-tolerance"
+  ]
+}
