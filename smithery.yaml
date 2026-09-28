@@ -1,0 +1,6 @@
+name: genpark-hamming-secded-error-correction-code-skill
+version: 1.0.0
+description: Hamming (7, 4) linear block code and extended (8, 4) SECDED single-error correction double-error detection
+command: python
+args:
+  - mcp_server.py
