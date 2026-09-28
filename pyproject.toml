@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-hamming-secded-error-correction-code-skill"
+version = "1.0.0"
+description = "Hamming (7, 4) linear block code and extended (8, 4) SECDED single-error correction double-error detection"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
